@@ -1,2 +1,1 @@
-var message = "Hello World from TypeScript!";
-console.log(message);
+"use strict";
